@@ -1,4 +1,5 @@
 ## 📁 Directory Structure（フォルダ構成）
+```text
 Aamon/
 ├─ README.md                                # 本ファイル
 ├─ .env                                     # 本番用の秘密設定（トークン/DB等）※Gitに上げない
@@ -128,3 +129,4 @@ Aamon/
 ├─ var/                                     # 生成物（Gitに上げない）
 ├─ logs/                                    # 実行ログ（logrotate推奨）
 └─ tmp/                                     # 一時ファイル/キャッシュ
+```
